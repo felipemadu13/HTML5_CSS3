@@ -54,7 +54,7 @@ DEFINIÇÃO:
 Quebra de linha
 
 EXEMPLO:
-Linha 1 **<br>** Linha 2
+Linha 1 <br> Linha 2
 
 RESULTADO:
 Linha 1
