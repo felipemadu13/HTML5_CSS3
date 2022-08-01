@@ -1,10 +1,10 @@
 # Guanabara_HTML5_CSS3
  Documentação simplificada para HTML5 e CSS3, usando como base o "Curso HTML5 e CSS3" do "Curso em Vídeo"
 
-HTML é uma linguagem de marcação para a internet, sua sigla significa *HyperText Markup Language* ou *“Linguagem de Marcação de Hipertexto”*.
+*HTML é uma linguagem de marcação para a internet, sua sigla significa *HyperText Markup Language* ou *“Linguagem de Marcação de Hipertexto”*.
 
 ```html
-**Estrutura**
+Estrutura
 <elemento atributo="">Conteúdo</elemento> 
 ```
 
@@ -13,15 +13,15 @@ HTML é uma linguagem de marcação para a internet, sua sigla significa *HyperT
 ### <link>
 
 ```html
-**Definição:**
+Definição:
 Define o tipo de relacão entre o documento e a fonte externa
 
-**Exemplo de Link CSS**
+Exemplo de Link CSS
 <head>
 	<link rel="stylesheet" href="style.css">
 </head>
 
-**Exemplo de Link Favicon**
+Exemplo de Link Favicon
 <head>
 	<link rel="icon" type="image/x-icon" href="logo.ico">
 </head>
