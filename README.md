@@ -4,7 +4,7 @@
 *HTML é uma linguagem de marcação para a internet, sua sigla significa *HyperText Markup Language* ou *“Linguagem de Marcação de Hipertexto”*.
 
 ```html
-ESTRUTURA
+ESTRUTURA:
 <elemento atributo="">Conteúdo</elemento> 
 ```
 
@@ -16,12 +16,12 @@ ESTRUTURA
 DEFINIÇÃO:
 Define o tipo de relacão entre o documento e a fonte externa
 
-EXEMPLO DE LINK CSS
+EXEMPLO DE LINK CSS:
 <head>
 	<link rel="stylesheet" href="style.css">
 </head>
 
-EXEMPLO DE LINK FAVICON
+EXEMPLO DE LINK FAVICON:
 <head>
 	<link rel="icon" type="image/x-icon" href="logo.ico">
 </head>
@@ -47,7 +47,7 @@ EXEMPLO:
 <p>conteúdo do parágrafo</p>
 ```
 
-### <br>
+### \<br\> ###
 
 ```html
 DEFINIÇÃO:
@@ -61,7 +61,7 @@ Linha 1
 Linha 2
 ```
 
-### <img>
+### \<img\> ###
 
 ```html
 DEFINIÇÃO:
@@ -71,7 +71,7 @@ EXEMPLO:
 <img src="imagem.png" alt="texto alternativo">
 ```
 
-### <h1>
+### \<h1\> ###
 
 ```html
 DEFINIÇÃO:
@@ -87,7 +87,7 @@ EXEMPLO:
 
 ```
 
-### <strong> e <em>
+### \<strong\> e \<em\> ###
 
 ```html
 DEFINIÇÃO:
@@ -103,7 +103,7 @@ Texto importante**
 *texto importante*
 ```
 
-### Outras tags de formatação:
+### Outras tags de formatação: ###
 
 ```html
 <mark>texto marcado</mark>
@@ -117,7 +117,7 @@ Texto importante**
 <abbr title="abreviação">ABBR</abbr>
 ```
 
-### <ol> e <ul>
+### \<ol\> e \<ul\> ###
 
 ```html
 DEFINIÇÃO:
@@ -142,7 +142,7 @@ EXEMPLO:
 | type=”i” ou type=”I” | ordem em algarismos romanos (i para minusculas e I para maisculas) |
 | type=”1” | ordem númerica |
 
-### <a>
+### \<a\> ###
 
 ```html
 DEFINIÇÃO:
