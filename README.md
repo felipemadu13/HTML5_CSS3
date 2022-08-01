@@ -108,7 +108,7 @@ EXEMPLO:
 ```html
 <mark>texto marcado</mark>
 <del>texto deletado</del>
-<ins>Texto inserito</ins>
+<ins>Texto inserido</ins>
 <sub>Texto sobrescrito</sub>
 <sup>Texto subscrito</sup>
 <code>Código</code>
