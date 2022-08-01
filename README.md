@@ -17,7 +17,7 @@ ESTRUTURA:
 
 ```html
 DEFINIÇÃO:
-Define o tipo de relacão entre o documento e a fonte externa
+Define o tipo de relação entre o documento e a fonte externa
 
 EXEMPLO DE LINK CSS:
 <head>
@@ -34,7 +34,7 @@ EXEMPLO DE LINK FAVICON:
 | --- | --- | --- |
 | href | URL | Especifica a localização de um documento linkado. |
 | rel | stylesheet | Especifica a relação entre o documento atual e o documento linkado. |
-| type | media_type | Especifica o tipo de media do documento linkado |
+| type | media_type | Especifica o tipo de mídia do documento linkado |
 
 # \</head\> #
 
