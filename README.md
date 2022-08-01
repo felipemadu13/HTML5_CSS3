@@ -43,7 +43,7 @@ EXEMPLO DE LINK FAVICON
 DEFINIÇÃO:
 Parágrafo
 
-**Exemplo:**
+EXEMPLO:
 <p>conteúdo do parágrafo</p>
 ```
 
@@ -53,10 +53,10 @@ Parágrafo
 DEFINIÇÃO:
 Quebra de linha
 
-**Exemplo:**
+EXEMPLO:
 Linha 1 **<br>** Linha 2
 
-**Resultado:**
+RESULTADO:
 Linha 1
 Linha 2
 ```
@@ -67,7 +67,7 @@ Linha 2
 DEFINIÇÃO:
 Imagens
 
-**Exemplo:**
+EXEMPLO:
 <img src="imagem.png" alt="texto alternativo">
 ```
 
@@ -77,7 +77,7 @@ Imagens
 DEFINIÇÃO:
 Indicar o grau de importância de títulos
 
-**Exemplo:**
+EXEMPLO:
 <h1>Títulos de maior importância</h1>
 <h2>Títulos de segunda maior importância</h2>
 <h3>Títulos de terceira maior importância</h3>
@@ -94,11 +94,11 @@ DEFINIÇÃO:
 strong e ênfase são usados para definir importância semântica aos elementos.
 Se o efeito desejado for apenas estético, o uso do CSS é recomendado.
 
-**Exemplo:**
+EXEMPLO:
 <strong>Texto importante</strong>
 <em>Texto importante</em>
 
-**Resutado:
+RESULTADO:
 Texto importante**
 *texto importante*
 ```
@@ -124,7 +124,7 @@ DEFINIÇÃO:
 ol - lista ordenada
 ul - lista não ordenada
 
-**Exemplo:
+EXEMPLO:
 <ol>
 <li>item 1</li>
 <li>item 2</l1>
@@ -148,7 +148,7 @@ ul - lista não ordenada
 DEFINIÇÃO:
 tag "âncora", define a ligação entre hyperlinks
 
-**Exemplo:**
+EXEMPLO:
 <a href="https://www.sitedeexemplo.com">clique aqui para vistar o site</a>
 ```
 
@@ -160,4 +160,4 @@ tag "âncora", define a ligação entre hyperlinks
 | rel=”prev” | indica que o link é o anterior do documental atual |
 | rel=”external” | indica que o link é de sites externos |
 
-# </body>
+# \</body\> #
