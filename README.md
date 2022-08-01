@@ -4,7 +4,7 @@
 *HTML é uma linguagem de marcação para a internet, sua sigla significa *HyperText Markup Language* ou *“Linguagem de Marcação de Hipertexto”*.
 
 ```html
-Estrutura
+ESTRUTURA
 <elemento atributo="">Conteúdo</elemento> 
 ```
 
@@ -13,15 +13,15 @@ Estrutura
 ### <link>
 
 ```html
-Definição:
+DEFINIÇÃO:
 Define o tipo de relacão entre o documento e a fonte externa
 
-Exemplo de Link CSS
+EXEMPLO DE LINK CSS
 <head>
 	<link rel="stylesheet" href="style.css">
 </head>
 
-Exemplo de Link Favicon
+EXEMPLO DE LINK FAVICON
 <head>
 	<link rel="icon" type="image/x-icon" href="logo.ico">
 </head>
@@ -40,7 +40,7 @@ Exemplo de Link Favicon
 ### <p>
 
 ```html
-**Definição:**
+DEFINIÇÃO:
 Parágrafo
 
 **Exemplo:**
@@ -50,7 +50,7 @@ Parágrafo
 ### <br>
 
 ```html
-**Definição:**
+DEFINIÇÃO:
 Quebra de linha
 
 **Exemplo:**
@@ -64,7 +64,7 @@ Linha 2
 ### <img>
 
 ```html
-**Definição:**
+DEFINIÇÃO:
 Imagens
 
 **Exemplo:**
@@ -74,7 +74,7 @@ Imagens
 ### <h1>
 
 ```html
-**Definição:**
+DEFINIÇÃO:
 Indicar o grau de importância de títulos
 
 **Exemplo:**
@@ -90,7 +90,7 @@ Indicar o grau de importância de títulos
 ### <strong> e <em>
 
 ```html
-**Definição:**
+DEFINIÇÃO:
 strong e ênfase são usados para definir importância semântica aos elementos.
 Se o efeito desejado for apenas estético, o uso do CSS é recomendado.
 
@@ -120,7 +120,7 @@ Texto importante**
 ### <ol> e <ul>
 
 ```html
-**Definição:**
+DEFINIÇÃO:
 ol - lista ordenada
 ul - lista não ordenada
 
@@ -145,7 +145,7 @@ ul - lista não ordenada
 ### <a>
 
 ```html
-**Definição:**
+DEFINIÇÃO:
 tag "âncora", define a ligação entre hyperlinks
 
 **Exemplo:**
