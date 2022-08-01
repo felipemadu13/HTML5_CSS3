@@ -8,9 +8,9 @@ ESTRUTURA
 <elemento atributo="">Conteúdo</elemento> 
 ```
 
-# <head>
+# \<head\> #
 
-### <link>
+### \<link\> ###
 
 ```html
 DEFINIÇÃO:
@@ -33,11 +33,11 @@ EXEMPLO DE LINK FAVICON
 | rel | stylesheet | Especifica a relação entre o documento atual e o documento linkado. |
 | type | media_type | Especifica o tipo de media do documento linkado |
 
-# </head>
+# \</head\> #
 
-# <body>
+# \<body\> #
 
-### <p>
+### \<p\> ###
 
 ```html
 DEFINIÇÃO:
