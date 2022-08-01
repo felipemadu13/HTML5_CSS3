@@ -138,9 +138,9 @@ EXEMPLO:
 
 | Attribute | Description |
 | --- | --- |
-| type=”a” ou type=”A” | ordem alfabética (a para minusculas e A para maisculas) |
-| type=”i” ou type=”I” | ordem em algarismos romanos (i para minusculas e I para maisculas) |
-| type=”1” | ordem númerica |
+| type=”a” ou type=”A” | ordem alfabética (a para minúsculas e A para maiúsculas)  |
+| type=”i” ou type=”I” | ordem em algarismos romanos (i para minúsculas e I para maiúsculas) |
+| type=”1” | ordem numérica |
 
 ### \<a\> ###
 
@@ -149,7 +149,7 @@ DEFINIÇÃO:
 tag "âncora", define a ligação entre hyperlinks
 
 EXEMPLO:
-<a href="https://www.sitedeexemplo.com">clique aqui para vistar o site</a>
+<a href="https://www.sitedeexemplo.com">clique aqui para visitar o site</a>
 ```
 
 | Attribute | Description |
