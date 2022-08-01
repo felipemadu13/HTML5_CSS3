@@ -98,9 +98,6 @@ EXEMPLO:
 <strong>Texto importante</strong>
 <em>Texto importante</em>
 
-RESULTADO:
-Texto importante**
-*texto importante*
 ```
 
 ### Outras tags de formatação: ###
@@ -133,7 +130,7 @@ EXEMPLO:
 <ul>
 <li>item 1</li>
 <li>item 2</l1>
-</ul>**
+</ul>
 ```
 
 | Attribute | Description |
